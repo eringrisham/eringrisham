@@ -3,11 +3,8 @@
 #### My name is Erin Grisham, and I'm a software engineer. 
 
     interface ErinProps {
-
         education: Hack Reactor's Software Engineering Immersive Program;
-    
         experience: SWE Tutor, Intern at Qualtrics;
-    
         favoriteTech: React & Typescript;
     }
 
