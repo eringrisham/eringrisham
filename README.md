@@ -1,6 +1,6 @@
 ### Hi, y'all 👋
 
-#### My name is Erin Grisham, and I'm a software engineer. 
+### My name is Erin Grisham, and I'm a software engineer. 
 
     interface ErinProps {
         education: Hack Reactor's Software Engineering Immersive Program;
