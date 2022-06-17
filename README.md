@@ -4,7 +4,7 @@
 
     interface ErinProps {
         education: Hack Reactor's Software Engineering Immersive Program;
-        experience: SWE Tutor, Intern at Qualtrics;
+        experience: SWE Tutor at Hack Reactor, Intern at Qualtrics;
         favoriteTech: React & Typescript;
     }
 
