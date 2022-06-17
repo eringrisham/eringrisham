@@ -9,12 +9,13 @@
     }
 
 #### Here's a little more about me...
-- 😎 Before I became a software engineer, I was a TV News Producer and a Senior Pricing Analyst at a SaaS company
+- 😎 Before I became a software engineer, I was a TV News Producer & a Senior Pricing Analyst at a SaaS company
+- 🎓 I have a Broadcast Journalism degree from UT Austin, & a certificate in business
 - 🏃🏼‍♀️ I started coding in 2020, then fully committed to the career path the following year
-- 💖 I quickly fell in love with problem-solving and creating beautiful, user-friendly experiences
+- 💖 I quickly fell in love with problem-solving & creating beautiful, user-friendly experiences
 - 🌱 I’m currently learning about state management systems
-- ✈️ I've lived in 8 different states, and most recently called NYC home
+- ✈️ I've lived in 8 different states, & most recently called NYC home
 - 🐈 I have a cat named Puppy who is the light of my life
 - 🍩 I'm a huge foodie with an insane sweet tooth
 - 📫 You can reach me here: erinmgrisham@gmail.com
-- 🕸 And here's my personal website: https://eringrisham.com
+- 🕸 & here's my personal website: https://eringrisham.com
