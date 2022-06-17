@@ -13,6 +13,7 @@
 - 🎓 I have a Broadcast Journalism degree from UT Austin, & a certificate in business
 - 🏃🏼‍♀️ I started coding in 2020, then fully committed to the career path the following year
 - 💖 I quickly fell in love with problem-solving & creating beautiful, user-friendly experiences
+- ♿️ My work at Qualtrics involved implementing accessibility for our survey data dashboards
 - 🌱 I’m currently learning about state management systems
 - ✈️ I've lived in 8 different states, & most recently called NYC home
 - 🐈 I have a cat named Puppy who is the light of my life
