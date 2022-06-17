@@ -19,4 +19,4 @@
 - 🐈  I have a cat named Puppy who is the light of my life
 - 🍩  I'm a huge foodie with an insane sweet tooth
 - 📫  You can reach me here: erinmgrisham@gmail.com
-- 🕸  & here's my personal website: https://eringrisham.com
+- 🕸  & here's my personal website (just for fun): https://eringrisham.com
